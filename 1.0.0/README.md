@@ -7,15 +7,14 @@
 
 ## Table of Contents
 
-- 📚 [Overview](#overview)
-- 🎯 [Features](#features)
-- 🛠️ [Things you need to know](#things-you-need-to-know)
+- 🌐 [Overview](#overview)
+- ⭐ [Features](#features)
+- 🤔 [Things you need to know](#things-you-need-to-know)
 - ⚙️ [Installation](#installation)
 - 🖥️ [Compatible Processor Boards](#compatible-processor-boards)
-- 🤝 [FAQ](#faq)
-- 🤝 [Disclaimer](#disclaimer)
+- ❓ [FAQ](#faq)
+- 📜 [Disclaimer](#disclaimer)
 - 📝 [License](#license)
-
 
 ## Overview
 
