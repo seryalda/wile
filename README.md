@@ -7,7 +7,8 @@
 
 ## Overview
 
-DAWG (AC Relay Driver Board). This board is purpose-built to address a common need in electronics projects: providing a reliable AC relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control multiple AC CONTACTORS or Industrial DC Relay Switches (of DC voltage more than 12VDC).
+### Multi-Voltage DC Power Supply Board**
+WILE, measuring 76mm x 86mm, addresses the need to power up to 9 devices, providing user-selectable 5VDC or 12VDC output. Its straightforward power connection uses a screw terminal block. Offering built-in voltage regulation, this board efficiently converts 12VDC to 5VDC, providing a dual voltage output solution for various project requirements.
 
 📚 Check out the different board versions below:
 
