@@ -34,7 +34,12 @@ The board includes a built-in voltage regulator that converts the 12VDC source t
 
 ## Things you need to know
 
-NA
+### WILE - Multi-Voltage RAIL DIN Board with Voltage Regulation
+- **Power Supply Configuration:** Use the screw terminal block to connect a 12VDC source to power the WILE board.
+- **Support for Multiple Devices:** This board supports up to 9 devices with user-selectable 5VDC or 12VDC output using jumper settings.
+- **Voltage Regulation:** The built-in voltage regulator converts the 12VDC source to 5VDC for dual voltage output, serving varied project requirements.
+- **Dimensions and Mounting:** The board measures 76mm x 86mm and includes screw holes for easy installation.
+- **Versatile Power Solutions:** Resolve the challenge of powering multiple DC devices by utilizing the dual voltage output.
 
 [🔝 Top](#top)
 
