@@ -3,6 +3,7 @@
 ### ◀️ [Back](/)
 <img src="images/3dv1.png" alt="PCB Back" width="300">
 
+[🛍️ BUY THIS BOARD!](https://www.amazon.sa/dp/B0CN1MZW2Q/)
 <!--📷-->
 
 ## Table of Contents
