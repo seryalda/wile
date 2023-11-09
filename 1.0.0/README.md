@@ -14,7 +14,7 @@
 - 🖥️ [Compatible Processor Boards](#compatible-processor-boards)
 - ❓ [FAQ](#faq)
 - 📜 [Disclaimer](#disclaimer)
-- 📝 [License](#license)
+- 📝 [Demo](#demo)
 
 ## Overview
 
@@ -70,43 +70,8 @@ NA
 
 [🔝 Top](#top)
 
-## License
+## Demo
 
-NA
+<img src="images/demo.png" alt="PCB Back" width="300">
 
 [🔝 Top](#top)
-
-<!--
-
-i am creating an amazon listing for below special purpose printed circuit board, this board primary purpose is to 
-act as a mounting board for ESP8266 nodeMCU V3,  
-
-create an amazon listing descriptions in HTML format with complete cool emoji, should be easy to read and use simple terms 
-
-and create also a bulleted features
-
-extract this from below summary
-
-the format is 
-
-TITLE
-DESCRIPTIONS 
-FEATURES
-
-
-FOGHORN BOARD
-MOUNTING dual 15 pins female headers FOR ESP8266 NODEMCU V3
-15 pins male and female mapped to ESP module pins for ease of use using jumper wires connections to projects
-analog pin header for A0 
-5 pins terminal screw block mapped directly to ground, gpio 4,5,12 and 14 microcontroller
-dc supply options choose between 5vdc directly to VIN or 12vdc power source and use built in 
-dc regulator to convert 12vdc to produce 5vdc and send to VIN, to use this option you need to short the XX jumper pins of JP1
-there are also two pin male/female headers for allowing user to connect using jumper wires, 
-
-the board layout  76 mm width by 86 mm high is designed to be RAIL DIN compatible, with screw hole on the sides of 25mm center to center spacing 
-
-DHT header ready, you can insert DHT11 or DHT22 in the 5 pins female headers, 
-
-all headers pins are 1.24mm standard spacing
-
--->
