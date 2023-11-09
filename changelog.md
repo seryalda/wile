@@ -1,6 +1,7 @@
-# Changelog for MARVIN Relay Driver Board
+## Top
+# 🎉 Changelog for DAWG AC Relay Driver Board
 
-[🏡 Back](/)
+### ◀️ [Back](/)
 
 ## [1.0.0] - 2023-11-06
 
@@ -10,7 +11,7 @@
 - Included silkscreen labels for pinouts, making it easier to identify the GPIO pins on the PCB board.
 - Added mounting holes for easy and secure installation onto various surfaces or enclosures.
   
-[🔝 Top](#changelog-for-marvin-relay-driver-board)
+[🔝 Up](#top)
 
 <!--
 ### Added

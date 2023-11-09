@@ -1,31 +1,32 @@
-# Board Version History
+## Top
+# DAWG Board Version History
 
 
 
-### 📫 [Home](https://github.com/seryalda)
+### 🏡 [Home](https://github.com/seryalda)
 
 ## Overview
 
-WILE (RAIL DIN Ready Relay Driver Board). This board is purpose-built to address a common need in electronics projects: providing a reliable HV relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control higher AC/DC voltage loads such as CONTACTORS.
+DAWG (AC Relay Driver Board). This board is purpose-built to address a common need in electronics projects: providing a reliable AC relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control multiple AC CONTACTORS or Industrial DC Relay Switches (of DC voltage more than 12VDC).
 
 📚 Check out the different board versions below:
 
 ## Version
-- [🚀 Version 1.0.0](./1.0.0) : This is the initial board version that started it all!
-
-
 <!--
-- [🔥 Version 2.1.0](./2.1.0): A hotfix release for the board to address critical issues. [Release Notes](./2.1.0/RELEASE.md)
-- [🎉 Version 3.0.0](./3.0.0): Another major board version with even more awesomeness. [Release Notes](./3.0.0/RELEASE.md)
-- [🐞 Version 3.1.0](./3.1.0): Board version focused on bug fixes and improvements. [Release Notes](./3.1.0/RELEASE.md)
-Feel free to explore each board version's folder for more details and release notes!
+- [🚀 Version 1.0.0](./1.0.0) : This is the initial board version that started it all!
 -->
 
+| Version | Board Image | Release Date  | Remarks   | Notes |
+|--------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| [1.0.0](./1.0.0) | <img src="1.0.0/images/3dv1.png" alt="PCB Back" width="150"> | NOV 2023 | NA | Alright! |
+
+
+[🔝 Top](#top)
 
 
 ## Changelog
-- [🚀 LOG](./changelog.md)
+- [📃 Logs and Releases](./changelog.md)
 
 
 
-### 📫 [Up](#board-version-history)
+[🔝 Top](#top)
