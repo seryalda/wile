@@ -52,15 +52,9 @@ Things and diagram you will need, for wiring and to implement RAIL DIN configura
 
 ## Compatible Processor Boards
 
-DAWG Board v1.0.0 also works with below Processor Board:
-
 | Board              | Link                                       | Image                                                                                                 | Description                                                                                                                                      | GPIO Output Pins     |
 |--------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | NA | NA | NA | NA | NA |
-
-
-
-Explore the compatibility of DAWG with these processor boards to enhance your projects.
 
 [🔝 Top](#top)
 
