@@ -72,7 +72,7 @@ N/A
 
 ## Disclaimer
 
-NA
+Use this module at your own risk. There is no warranty that this design is safe for your application. The user assumes all responsibility for any consequences resulting from the use of this module.
 
 [🔝 Top](#top)
 
